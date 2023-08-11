@@ -100,8 +100,8 @@
    * TRANSITION
    */
 
-  --transition-1: 1000ms ease;
-  --transition-2: 1000ms ease;
+  --transition-1: 80000ms ease;
+  --transition-2: 15000ms ease;
   --transition-3: 1000ms ease;
 
 }
@@ -844,7 +844,7 @@ body.nav-active {
 }
 
 .navbar-title {
-  margin-top: -2.5em;
+  margin-top: 2.5em;
 }
 
 .whatsapp-link {
